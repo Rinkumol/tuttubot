@@ -1,15 +1,15 @@
 
 <div align="center">
-  <img border-radius: 15px src="Pikachu-407x400.png" width="200" height="200"/>
+  <img border-radius: 15px src="kuttusan" width="200" height="200"/>
   <p align="center">
-<a href="#"><img title="Pikachu" src="https://img.shields.io/badge/Pikachu-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="TUTTU" src="https://img.shields.io/badge/tuttubot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Author-ameer-kallumthodi/pikachu?color=red&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Rinkumol"><img title="Author" src="https://img.shields.io/badge/Author-Rinkumol/tuttubot?color=red&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumthodi</a> to make it public
+Project created by <a href="https://github.com/Rinkumol">Rinkumol</a> to make it public
     <br>
        | © |
         Reserved |
@@ -19,13 +19,13 @@ Project created by <a href="https://github.com/ameer-kallumthodi">ameer-kallumth
 ----
 
   <p align="center">
-  <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/ameerkallumthodi/pikachu?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/Rinkumol/tuttubot">
+    <img src="https://img.shields.io/github/repo-size/Rinkumol/tuttubot?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/ameer-kallumthodi?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ameer-kallumthodi/pikachu?color=blue&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/ameer-kallumthodi/pikachu?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/Rinkumol/followers"><img title="Followers" src="https://img.shields.io/github/followers/Rinkumol?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rinkumol/tuttubot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Rinkumol/tuttubot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rinkumol/tuttubot/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Rinkumol/tuttubot?color=blue&style=flat-square"></a>
+<a href="https://github.com/Rinkumol/tuttubot/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Rinkumol/tuttubot?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
 
@@ -36,7 +36,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/GUhzlg6Yhkj611fLl5HkpN)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ameer-kallumthodi&repo=PublicBot&theme=nightowl)](https://github.com/ameer-kallumthodi/PublicBot)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Rinkumol&repo=PublicBot&theme=nightowl)](https://github.com/Rinkumol/PublicBot)
   </div>
     
 ## Setup
@@ -46,7 +46,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ameer-kallumthodi/pikachu.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Rinkumol/tuttubot.git)
      </div>
 <br>
 <br >
@@ -61,8 +61,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Rinkumol/tuttubot
+$ cd tuttubot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -71,8 +71,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/ameer-kallumthodi/pikachu
-$ cd pikachu
+$ git clone https://github.com/Rinkumol/tuttubot
+$ cd tuttubot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -92,7 +92,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameerkallumthodi](https://github.com/Pikachu-407x400.png?size=100)](https://github.com/ameerkallumthodi) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
+  [![Rinkumol](https://github.com/kuttu?size=100)](https://github.com/Rinkumol) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=100)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=100)](https://github.com/afnanplk) 
 ----|----|----
 [farhan-dqz](https://github.com/farhan-dqz)  | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk)
 Base, Bug Fixes, Modules | Modifiying  as   public | Bug Fixes, Modules
