@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```kurach neram nikk 🤠```"
+            "DOWNLOADING": "```kurach time nikk 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
@@ -223,7 +223,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Updated 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 tuttubot Restarting*"
+            "AFTER_UPDATE": "*😍 tuttubot Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
