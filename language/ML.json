@@ -72,9 +72,9 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart pinkymwol\n",
+            "RESTART_DESC": "\nRestart tuttubot\n",
             "RESTART_MSG": "```punararambikkunu...```",
-            "SHUTDOWN_DESC": "\nShutdown pinkymwol\n",
+            "SHUTDOWN_DESC": "\nShutdown tuttubot\n",
             "SHUTDOWN_MSG": "```chaavan povunnu ⛔```",
             "DYNO_DESC": "heroku dyno kanaan ",
             "DYNO_TOTAL": "```motham Quota```",
@@ -186,7 +186,7 @@
             "SONG_DESC": "ningal type cheytha paatt upload cheyth therum.",
             "NEED_TEXT_SONG": "*paattinte per adikku!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*ennikk onnum kandethaan aayilla :(*",
-            "DOWNLOADING_SONG": "\ee song njan evideyo kettittund..thappi nokkatte 🤗\n",
+            "DOWNLOADING_SONG": "\ee song njan evideyo kettittund...thappi nokkatte 🤗\n",
             "UPLOADING_SONG": "\ninna nee paranja song 📲\n",
             "VIDEO_DESC": "YouTubeill nin video download cheyyan.",
             "NEED_VIDEO": "*oru video link theru!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```oru umma thannal sticker tharam 🤠```"
+            "DOWNLOADING": "```ippam sheriyakki tharam 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
