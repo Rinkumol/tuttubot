@@ -72,7 +72,7 @@
             "MUST_TEXT": "```eathellum oru messagin reply cheyyu```"
         },
         "heroku": {
-            "RESTART_DESC": "\nRestart Rinkumol\n",
+            "RESTART_DESC": "\nRestart tuttubot\n",
             "RESTART_MSG": "```punararambikkunu...```",
             "SHUTDOWN_DESC": "\nShutdown Rinkumol\n",
             "SHUTDOWN_MSG": "```adach poottunnu ⛔```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "chithram sticker akkaan.",
             "NEED_REPLY": "*photo allenkil chithram reply cheyyu!*",
-            "DOWNLOADING": "```ippam sheriyakki tharam🤠```"
+            "DOWNLOADING": "```ippam sheriyakki tharam 🤠```"
         },
         "system_stats": {
             "ALIVE_DESC": "bot working aano enn ariyan",
