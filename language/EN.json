@@ -186,8 +186,8 @@
             "SONG_DESC": "Uploads the song you wrote.",
             "NEED_TEXT_SONG": "*Please write a song!*\n*Example:* ```.song Naadan Vibe```",
             "NO_RESULT": "*I couldn't find anything :(*",
-            "DOWNLOADING_SONG": "\n*paatt thappunnu 🤗*\n",
-            "UPLOADING_SONG": "\n*Uploading 📲 Use 🎧*\n",
+            "DOWNLOADING_SONG": "\n*പാട്ട് തപ്പി നോക്കട്ടെ..വെയിറ്റ് ചെയ്യ് മോനു  🤗*\n",
+            "UPLOADING_SONG": "\n*പാട്ടൊക്കെ കേട്ട് വീട്ടിൽ ഇരിക്ക് 📲 Use 🎧*\n",
             "VIDEO_DESC": "Downloads video from YouTube.",
             "NEED_VIDEO": "*Please write a video link!*\n*Example:* ```.video https://www.youtube.com/watch?v=nAFlVm5qeBc```",
             "DOWNLOADING_VIDEO": "```Downloading 🎥...```",
@@ -204,7 +204,7 @@
         "sticker": {
             "STICKER_DESC": "It converts your replied photo or video to sticker.",
             "NEED_REPLY": "*Reply to a photo or video!*",
-            "DOWNLOADING": "```ippam sheriyakki tharam🤠```"
+            "DOWNLOADING": "```ഉമ്മ തന്നാൽ സ്റ്റിക്കർ തരാം 🙈```"
         },
         "system_stats": {
             "ALIVE_DESC": "Does bot work?",
